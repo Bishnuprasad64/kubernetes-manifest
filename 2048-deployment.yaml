@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: game-2048
-        image: nginx:latest
+        image: 329599623141.dkr.ecr.us-east-2.amazonaws.com/bishnu-cicd
         ports:
         - containerPort: 80
