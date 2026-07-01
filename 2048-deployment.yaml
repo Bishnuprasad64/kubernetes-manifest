@@ -2,6 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: game-2048
+  namespace: default
 spec:
   replicas: 1
   selector:
