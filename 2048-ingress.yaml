@@ -5,7 +5,6 @@ metadata:
   namespace: default
 spec:
   rules:
-   -host: dev.xyzcom.shop
     http: 
       paths:
       - path: /
