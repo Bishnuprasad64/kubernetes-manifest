@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: game-2048
-        image: 329599623141.dkr.ecr.us-east-2.amazonaws.com/bishnu-cicd:13
+        image: 329599623141.dkr.ecr.us-east-2.amazonaws.com/bishnu-cicd:14
         ports:
         - containerPort: 80
